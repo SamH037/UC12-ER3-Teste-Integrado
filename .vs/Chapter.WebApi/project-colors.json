@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76b0f05a-184f-4042-9d94-f346030f20fc": {
+      "ProjectGuid": "76b0f05a-184f-4042-9d94-f346030f20fc",
+      "DisplayName": "TestXunit",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
